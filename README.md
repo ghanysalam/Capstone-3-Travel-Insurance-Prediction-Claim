@@ -16,10 +16,6 @@ This project comprises of several part in different format:
 3. [Video Presentation](https://drive.google.com/file/d/1aDK0rNvL-H7BiXsrLOXBLZlj3OYTfBls/view?usp=drive_link)
 4. [Machine Learning Model](https://github.com/ghanysalam/Capstone-3-Travel-Insurance-Prediction-Claim/blob/main/xgb_model.pkl)
 
-
-## About The Project
----
-
 # **Background**
 Travel insurance is a type of insurance that provides protection while we are traveling both domestically and internationally. Some countries even require travelers to have travel insurance, for example, countries in Europe and America. The amount of the premium depends on the desired coverage, the journey, and the travel destination. A company that operates in travel insurance wants to know which policyholders will have their insurance claims accepted. This will help reduce the burden, performance, and time as well as the quality of service of travel insurance providers to travelers.
 
