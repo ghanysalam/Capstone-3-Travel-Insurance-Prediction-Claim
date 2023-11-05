@@ -1,6 +1,4 @@
-# Exploratory Data Analysis of Transjakarta Transactions Analysis
-
-## [Capstone 3 JCDS Purwadhika]
+# [Capstone 3 JCDS Purwadhika]
 
 **Preface**
 
