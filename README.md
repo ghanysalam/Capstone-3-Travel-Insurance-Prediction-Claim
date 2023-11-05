@@ -46,15 +46,15 @@ In addition, the company wants to identify factors that influence claim approval
 - Error type 1 (False Positive):
 Consequences: Marketing costs and company resources are wasted.
 
--Error type 2 (False Negative):
+- Error type 2 (False Negative):
 Consequences: Loss of potential prospects.
 
 Based on the consequences of each type of error, the main focus of the model we will create is to minimize Error type 2 because the consequences of False Negatives are more serious than False Positives (Type I error). This type 2 error has the potential to reduce company revenue due to the loss of potential customers. So, the main metric we will use later is the recall score.
 
 # Project Features
 
-Data Cleaning (Missing Values, Duplicate Values and Outliers)
-Data Analysis
-Feature Selection and Engineering (Encoding and Scaling)
-Modeling, Analytics, and Evaluation (Recall Score, XGBoost, and Hyperparameter Tuning)
-Conclusion and Recomendations
+- Data Cleaning (Missing Values, Duplicate Values and Outliers)
+- Data Analysis
+- Feature Selection and Engineering (Encoding and Scaling)
+- Modeling, Analytics, and Evaluation (Recall Score, XGBoost, and Hyperparameter Tuning)
+- Conclusion and Recomendations
