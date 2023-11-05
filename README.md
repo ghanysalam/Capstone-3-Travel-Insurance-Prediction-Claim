@@ -38,14 +38,15 @@ In addition, the company wants to identify factors that influence claim approval
 
 ## **Metric Evaluation**
 
-True Positive: Traveler makes a Claim and the model predicts a Claim will be made
-False Positive: Traveler does not make a Claim, but the model predicts a Claim will be made
-False Negative: Traveler makes a Claim, but the model predicts no Claim will be made
-True Negative: Traveler does not make a Claim and the model predicts no Claim will be made
-Error type 1 (False Positive):
+1. True Positive: Traveler makes a Claim and the model predicts a Claim will be made
+2. False Positive: Traveler does not make a Claim, but the model predicts a Claim will be made
+3. False Negative: Traveler makes a Claim, but the model predicts no Claim will be made
+4. True Negative: Traveler does not make a Claim and the model predicts no Claim will be made
+
+- Error type 1 (False Positive):
 Consequences: Marketing costs and company resources are wasted.
 
-Error type 2 (False Negative):
+-Error type 2 (False Negative):
 Consequences: Loss of potential prospects.
 
 Based on the consequences of each type of error, the main focus of the model we will create is to minimize Error type 2 because the consequences of False Negatives are more serious than False Positives (Type I error). This type 2 error has the potential to reduce company revenue due to the loss of potential customers. So, the main metric we will use later is the recall score.
