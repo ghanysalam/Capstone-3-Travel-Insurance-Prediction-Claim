@@ -19,9 +19,9 @@ Travel insurance is a type of insurance that provides protection while we are tr
 
 ## **Target**
 
-No (0): Insurance claim is rejected
+No (0): Insurance owner does not makes a claim
 
-Yes (1): Insurance claim is accepted
+Yes (1): Insurance owner makes a claim
 
 
 ## **Problem Statement**
